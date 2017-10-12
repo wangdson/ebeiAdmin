@@ -4,6 +4,9 @@
 
 ## Build Setup
 
+##下载项目
+git clone https://github.com/wangdson/ebeiAdmin.git
+
 ``` bash
 # install dependencies
 npm install
