@@ -4,8 +4,10 @@
 
 ## Build Setup
 
-##下载项目
+``` bash
+## 下载项目
 git clone https://github.com/wangdson/ebeiAdmin.git
+```
 
 ``` bash
 # install dependencies
